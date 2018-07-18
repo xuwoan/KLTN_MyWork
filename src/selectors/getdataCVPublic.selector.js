@@ -1,0 +1,10 @@
+export const getresultActive= (state) => state.CVPublic.isupdated;
+export const getisLoadingListCV= (state) => state.CVPublic.isLoadingListCV;
+export const getisLoadingListDep= (state) => state.CVPublic.isLoadingListDep;
+export const getisLoadingNextListCV= (state) => state.CVPublic.isLoadingNextListCV
+export const getamountCVPublic= (state) => state.CVPublic.amountCV;
+export const getlistCVPublic= (state) => state.CVPublic.listcvpublic;
+export const getlistQueryDepartment= (state) => state.CVPublic.listdepartment;
+export const getisError= (state) => state.CVPublic.isError;
+export const getuserCVPublic= (state) => state.CVPublic.usercvpublic;
+export const getCVAldready= (state) => state.CVPublic.cvaldready;

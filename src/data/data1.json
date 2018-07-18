@@ -1,0 +1,689 @@
+﻿[
+  {
+    "title":"Sales Leader - Thu Nhập Hấp Dẫn drgvdf fdfdg fd fdgdf f g fgfd  gfgf f dfg fd fg f gsfg dfs gfds gdf gfd fd gf sfg fsd gd",
+    "company":{
+      "name":"CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI TM",
+      "address":"Số 1 , Võ Văn Ngân",
+      "email":"abcd@gmail.com",
+      "logo":"http://logoart.vn/upload/images/customer/thiet-ke-logo-cong-ty-di-ch-thua-t-elitetrans_thumb_400x300.jpg"
+        },
+    "job":[
+      {
+        "require":
+        {
+          "experience":{
+              "key":0,
+              "name":"Không"
+              },
+          "gender":{
+              "key":0,
+              "name":"Không"
+              },
+          "other":"Bằng tốt nghiệp cấp 3"
+        },
+        "info":
+        {
+          "address":
+          {
+            "address":"341 Huỳnh Văn Bánh , Phường 11",
+            "province":{
+              "id":1,
+              "name":"Q. Phú Nhuận",
+              "idc":1
+            },
+            "city":{
+              "id":1,
+              "name":"TP.HCM"
+            }
+          },
+          "salary":{
+              "salary":null,
+              "other":"Thương Lượng"
+          },
+          "job":{
+              "id":9,
+              "name":"Bảo Vệ"
+          },
+          "major":{
+              "key":0,
+              "name":"Buôn Bán"
+            },
+          "type":{
+              "key":1,
+              "name":"Part-Time"
+          }
+        }
+      },
+      {
+        "require":
+        {
+          "experience":{
+            "key":0,
+            "name":"Không"
+          },
+          "gender":{
+            "key":0,
+            "name":"Không"
+          },
+          "other":"Bằng tốt nghiệp cấp 3"
+        },
+        "info":{
+          "address":{
+            "address":"341 Huỳnh Văn Bánh , Phường 11",
+            "province":{
+              "id":1,
+              "name":"Q. Phú Nhuận",
+              "idc":1
+            },
+            "city":{
+              "id":1,
+              "name":"TP.HCM"
+            }
+          },
+          "salary":{
+            "salary":null,
+            "other":"Thương Lượng"
+          },
+          "job":{
+            "id":1,
+            "name":"Bán Hàng"
+          },
+          "major":{
+            "key":0,
+            "name":"Buôn Bán"
+          },
+          "type":{
+            "key":1,
+            "name":"Part-Time"
+          }
+      }
+    }],
+  "detail":"Bao ăn ở",
+  "phone":"0981827425",
+  "email":"xuwoan@gmail.com",
+  "deadline":"12/11/2017",
+  "active":true,
+  "date":"25/9/2017",
+  "user":{
+    "id":1,
+    "name":"Hoang"
+  }
+},
+{
+  "title": "Nhân Viên SEO (Hà Nội và TP. HCM)",
+  "company": {
+    "name":"Công ty TNHH Thiết bị Công nghiệp Trường Sa",
+    "address":"Số 6, ngõ 15, đường Ngọc Hồi, phường Hoàng Liệt, Quận Hoàng Mai , Hà Nội , Việt Nam",
+    "email":"abcd@gmail.com",
+    "logo":"http://inanhathanh.com/admin/webroot/upload/image/images/330454800_1356847820_logo%20cong%20ty%20ha%20thanh.jpg"
+    
+  },
+  "job":[
+    {
+    "require": 
+     {
+      "experience":{
+        "key":1,
+        "name":"6 tháng trở lên"
+      },
+      "gender":{
+        "key":0,
+        "name":"Không"
+      },
+      "other":""
+      
+    },
+    "info" :{
+        "address":{
+          "address":"Số 6, ngõ 15, đường Ngọc Hồi, phường Hoàng Liệt",
+          "province":{
+            "id":40,
+            "name":"Q.Hoàng Mai",
+            "idc":2
+            
+          },
+           "city":{
+            "id":2,
+            "name":"Hà Nội"
+          }
+        },
+         "salary":{
+          "salary":1200,
+          "other":null
+          
+        },
+        "job":{
+          "id":52,
+          "name":"Web Develope"
+        },
+        "type":{
+          "key":1,
+          "name":"Part-Time"
+        },
+        "major":{
+          "key":0,
+          "name":"Công nghệ thông tin"
+        }
+      }
+    },
+    {
+      "require": 
+       {
+        "experience":{
+          "key":1,
+          "name":"6 tháng trở lên"
+        },
+        "gender":{
+          "key":0,
+          "name":"Không"
+        },
+        "other":""
+        
+      },
+      "info" :{
+        "address":{
+          "address":"Số 6, ngõ 15, đường Ngọc Hồi, phường Hoàng Liệt",
+          "province":{
+            "id":40,
+            "name":"Q.Hoàng Mai",
+            "idc":2
+            
+          },
+           "city":{
+            "id":2,
+            "name":"Hà Nội"
+          }
+        },
+        "salary":{
+          "salary":1200,
+          "other":null
+          
+        },
+        "job":{
+          "id":50,
+          "name":"SEO"
+        },
+        "type":{
+          "key":1,
+          "name":"Part-Time"
+        },
+        "major":{
+          "key":0,
+          "name":"Công nghệ thông tin"
+        }
+      }
+    },
+    {
+      "require": 
+       {
+        "experience":{
+          "key":1,
+          "name":"6 tháng trở lên"
+        },
+        "gender":{
+          "key":0,
+          "name":"Không"
+        },
+        "other":""
+        
+      },
+      "info" :{
+        "address":{
+          "address":"Số 6, ngõ 15, đường Ngọc Hồi, phường Hoàng Liệt",
+          "province":{
+            "id":40,
+            "name":"Q.Hoàng Mai",
+            "idc":2
+            
+          },
+           "city":{
+            "id":2,
+            "name":"Hà Nội"
+          }
+        },
+        "salary":{
+          "salary":1200,
+          "other":null
+          
+        },
+        "job":{
+          "id":50,
+          "name":"SEO"
+        },
+        "type":{
+          "key":1,
+          "name":"Part-Time"
+        },
+        "major":{
+          "key":0,
+          "name":"Công nghệ thông tin"
+        }
+      }
+    }],
+  "detail":"- Môi trường làm việc thân thiện, tạo điều kiện cho việc thăng tiến theo năng lực \n- Tham gia BHXH, BHYT, BHTN đầy đủ sau khi được nhận chính thức. \n- Các chế độ theo Luật lao động hiện hành và các phúc lợi theo quy định của Nhà nước",
+  "phone":"0981827425",
+  "email":"xuwoan@gmail.com",
+  "deadline": "25/10/2017",
+  "active":true,
+  "date":"5/10/2017",
+  "user": {
+    "id" :1,
+    "name" :"Hoang"
+  }
+},
+{
+  "title": "Kiến Trúc Sư",
+  "company": {
+    "name":"Công Ty Cổ Phần Tư Vấn Thiết Kế Xuân Mai",
+    "address":"Tầng 6, nhà 29T2 Hoàng Đạo Thúy, Quận Cầu Giấy , Hà Nội , Việt Nam",
+    "email":"abcd@gmail.com",
+    "logo":"http://logoart.vn/upload/images/customer/thiet-ke-logo-cong-ty-cp-ky-thuat-co-khi-xay-dung-hoang-gia_logo_1379475297.jpg"
+    
+  },
+  "job":[
+    {
+  
+  "require": 
+   {
+    "experience":{
+      "key":0,
+      "name":"Không"
+    },
+    "gender":{
+      "key":0,
+      "name":"Không"
+    },
+    "other":"Bằng tốt nghiệp đại học"
+    
+  },
+  "info" :{
+    "address":{
+      "address":"Tầng 6, nhà 29T2 Hoàng Đạo Thúy",
+      "province":{
+        "id":1,
+        "name":"Q.Cầu Giấy",
+        "idc":1
+        
+      },
+       "city":{
+        "id":2,
+        "name":"Hà Nội"
+      }
+    },
+    "job":{
+      "id":25,
+      "name":"Kiến Trúc Sư"
+    },
+     "salary":{
+      "salary":null,
+      "other":"500-650$"
+      
+    },
+    "major":{
+      "key":15,
+      "name":"Kiến Trúc"
+    },
+    "type":{
+      "key":2,
+      "name":"Full-Time"
+    }
+   
+  }
+  }
+  ],
+  "detail":"- Thực hiện các công tác thiết kế kiến trúc\n - Thiết kế kiến trúc, tư vấn kiến trúc, nội thất cho khách hàng \n - Lập tiến độ và triển kai các bản vẽ thi công \n - Làm việc với các bên liên kết, đối tác, nhà thầu cảu dự án \n- Tham mưu, tư vấn về chuyên môn và thực hiện các nhiệm vụ khác của Giám đốc",
+  "phone":"0981827425",
+  "email":"xuwoan@gmail.com",
+  "deadline": "4/12/2017",
+  "active":true,
+  "date":"14/12/2017",
+  "user": {
+    "id" :5,
+    "name" :"Hieu"
+  }
+},
+{
+  "title": "Nhân Viên Bảo Trì",
+  "company": {
+    "name":"Công Ty TNHH Sơn Samhwa Vina",
+    "address":"080A, Số 11, Đường 11, KCN VSIP Bắc Ninh, X. Phù Chẩn, Thị xã Từ Sơn , Bắc Ninh , Việt Nam",
+    "email":"abcd@gmail.com",
+    "logo":"http://logoart.vn/upload/images/customer/thiet-ke-logo-cong-ty-cp-go-thanh-duong-thaduco_logo_thumb_1376618171.jpg"
+    
+  },
+  "job":[
+  {
+  "require": 
+   {
+    "experience":{
+      "key":0,
+      "name":"Không"
+    },
+    "gender":{
+      "key":1,
+      "name":"Nam"
+    },
+    "other":""
+    
+  },
+  "info" :{
+    "address":{
+      "address":"080A, Số 11, Đường 11, KCN VSIP Bắc Ninh, X. Phù Chẩn",
+      "province":{
+        "id":88,
+        "name":"Tx.Từ Sơn",
+        "idc":25
+        
+      },
+       "city":{
+        "id":25,
+        "name":"Bắc Ninh"
+      }
+    },
+     "salary":{
+      "salary":500,
+      "other":null
+      
+    },
+    "job":{
+      "id":1,
+      "name":"Nhân Viên"
+    },
+    "major":{
+      "key":0,
+      "name":"Kỹ Thuật"
+    },
+    "type":{
+      "key":2,
+      "name":"Full-Time"
+    }
+   
+  }
+  }],
+  "detail":"- Bảo dưởng, bảo trì các thiết  bị điện, nước trong nhà máy \n - Xử lý các sự cố của máy móc(máy trộn sơn, máy nén khí, máy bơm…",
+  "phone":"0981827425",
+  "email":"xuwoan@gmail.com",
+  "deadline": "22/11/2017",
+  "active":true,
+  "date":"10/11/2017",
+  "user": {
+    "id" :1,
+    "name" :"Thang"
+  }
+},
+{
+  "title": "02 Hướng Dẫn Nhân Viên Du Lịch",
+  "company": {
+    "name":"Công Ty Du Lịch Biển Ngọc",
+    "address":"76 Nguyễn Chí Thanh, Quận Hải Châu , Đà Nẵng , Việt Nam",
+    "email":"abcd@gmail.com",
+    "logo":"http://www.thelogofactory.com/wp-content/uploads/2015/08/azure-natural-gas-company-logo.png"
+    
+  },
+  "job":[{
+  "require": 
+   {
+    "experience":{
+      "key":0,
+      "name":"Không"
+    },
+    "gender":{
+      "key":0,
+      "name":"Không"
+    },
+    "other":"Biết Tiếng Trung"
+    
+  },
+  "info" :{
+    "address":{
+      "address":"76 Nguyễn Chí Thanh",
+      "province":{
+        "id":85,
+        "name":"Q.Hải Châu",
+        "idc":4
+        
+      },
+       "city":{
+        "id":4,
+        "name":"Hải Châu"
+      }
+    },
+    "salary":{
+      "salary":800,
+      "other":null
+      
+    },
+    "job":{
+      "id":1,
+      "name":"Hướng Dẫn Viên"
+    },
+    "major":{
+      "key":0,
+      "name":"Du Lịch"
+    }
+    ,
+    "type":{
+      "key":2,
+      "name":"Full-Time"
+    }
+  }
+  }],
+  
+  "detail":"Bao ăn ở",
+  "phone":"0981827425",
+  "email":"xuwoan@gmail.com",
+  "deadline": "18/11/2017",
+  "active":true,
+  "date":"10/10/2017",
+  "user": {
+    "id" :1,
+    "name" :"Hoang"
+  }
+},
+{
+  "title": "Giáo Viên Tiếng Hàn",
+  "company": {
+    "name":"Tổ Hợp Giáo Dục Công Nghệ PNS",
+    "address":"237 Đường Hạ Long, Phường Bãi Cháy, Thành phố Hạ Long , Quảng Ninh , Việt Nam",
+    "email":"abcd@gmail.com",
+    "logo":"http://www.logo-company.in/logo/214.jpg"
+    
+  },
+  "job":[{
+  "require": 
+   {
+    "experience":{
+      "key":0,
+      "name":"Không"
+    },
+    "gender":{
+      "key":2,
+      "name":"Nữ"
+    },
+    "other":"- Tốt nghiệp cử nhân chuyên ngành tiếng Hàn hoặc trình độ tương đương; \n- Có chứng chỉ Tiếng Hàn tối thiểu Topik cấp 4 hoặc tương đương;\n- Phát âm chuẩn, phong cách giảng dạy năng động, linh hoạt, truyền lửa cho học viên;"
+    
+  },
+  "info" :{
+    "address":{
+      "address":"341 Huỳnh Văn Bánh , Phường 11",
+      "province":{
+        "id":1,
+        "name":"Q. Phú Nhuận",
+        "idc":1
+        
+      },
+       "city":{
+        "id":1,
+        "name":"TP.HCM"
+      }
+    },
+    "salary":{
+      "salary":1200,
+      "other":null
+      
+    },
+    "job":{
+      "id":1,
+      "name":"Giảng Viên"
+    },
+    "major":{
+      "key":0,
+      "name":"Giáo Dục"
+    },
+    
+    "type":{
+      "key":2,
+      "name":"Full-Time"
+    }
+   
+  }
+  }],
+  "detail":"- Giảng dạy các khóa tiếng Hàn giao tiếp, tiếng Hàn cơ bản cho các học sinh có nhu cầu đi du học, XKLĐ, tiếng Hàn cho doanh nghiệp,...\n - Giảng dạy các khóa Luyện thi Topik 4 kĩ năng; \n- Giảng dạy các dự án lớn chuẩn đầu ra Topik;",
+  "phone":"0981827425",
+  "email":"xuwoan@gmail.com",
+  "deadline": "20/12/2017",
+  "active":true,
+  "date":"25/11/2017",
+  "user": {
+    "id" :1,
+    "name" :"Kiều"
+  }
+},
+{
+  "title": "Nhân Viên IT - Phòng Hệ Thống",
+  "company": {
+    "name":"CÔNG TY CỔ PHẦN MASSCOM VIỆT NAM ",
+    "address":"Số 11 Nguyễn Xiển, Phường Hạ Đình, Quận Thanh Xuân , Hà Nội , Việt Nam",
+    "email":"abcd@gmail.com",
+    "logo":"https://www.wikihow.com/images/7/7b/Company-Logo.png"
+    
+  },
+  "job":[{
+  "require": 
+   {
+    "experience":{
+      "key":3,
+      "name":"2 Năm kinh nghiệm trở lên"
+    },
+    "gender":{
+      "key":0,
+      "name":"Không"
+    },
+    "other":"Tốt nghiệp Cao đẳng trở lên các ngành CNTT, Viễn thông"
+    
+  },
+  "info" :{
+    "address":{
+      "address":"341 Huỳnh Văn Bánh , Phường 11",
+      "province":{
+        "id":30,
+        "name":"Q.Thanh Xuân",
+        "idc":2
+        
+      },
+       "city":{
+        "id":2,
+        "name":"Hà Nội"
+      }
+    },
+    "salary":{
+      "salary":null,
+      "other":"Thương Lượng"
+      
+    },
+    "job":{
+      "id":30,
+      "name":"Lập Trình Viên"
+    },
+    "major":{
+      "key":0,
+      "name":"Công nghệ thông tin"
+    }
+    ,
+    "type":{
+      "key":2,
+      "name":"Full-Time"
+    }
+   
+  }
+  }],
+  "detail":"- Hỗ trợ, xử lý các vấn đề liên quan đến hệ thống phần mềm, phần cứng, hạ tầng công nghệ thông tin của công ty \n- Cài đặt, sửa lỗi phần mềm, phần cứng, hạ tầng của công ty",
+  "phone":"0981827425",
+  "email":"xuwoan@gmail.com",
+  "deadline": "15/11/2017",
+  "active":true,
+  "date":"1/11/2017",
+  "user": {
+    "id" :1,
+    "name" :"Tuy"
+  }
+},
+{
+  "title": "Trưởng Nhóm Thiết Kế Thời Trang",
+  "company": {
+    "name":"Thời Trang AdoreDress",
+    "address":"Số 1 , Võ Văn Ngân",
+    "email":"abcd@gmail.com",
+    "logo":"https://brandongaille.com/wp-content/uploads/2013/12/Kodak-Company-Logo.jpg"
+    
+  },
+  "job":[{
+  "require": 
+   {
+    "experience":{
+      "key":0,
+      "name":"Không"
+    },
+    "gender":{
+      "key":0,
+      "name":"Không"
+    },
+    "other":"Bằng tốt nghiệp cấp 3"
+    
+  },
+  "info" :{
+    "address":{
+      "address":"341 Huỳnh Văn Bánh , Phường 11",
+      "province":{
+        "id":1,
+        "name":"Q. Phú Nhuận",
+        "idc":1
+        
+      },
+       "city":{
+        "id":1,
+        "name":"TP.HCM"
+      }
+    },
+    "salary":{
+      "salary":null,
+      "other":"700-800$"
+      
+    },
+    "job":{
+      "id":12,
+      "name":"Thiết kế thời trang"
+    },
+    "major":{
+      "key":16,
+      "name":"Thời trang-May mặc"
+    }
+    ,
+    "type":{
+      "key":2,
+      "name":"Full-Time"
+    }
+   
+  }
+  }],
+  "detail":"",
+  "phone":"0981827425",
+  "email":"xuwoan@gmail.com",
+  "deadline": "10/11/2017",
+  "active":true,
+  "date":"30/9/2017",
+  "user": {
+    "id" :1,
+    "name" :"Hoang"
+  }
+}]

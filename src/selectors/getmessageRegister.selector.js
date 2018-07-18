@@ -1,0 +1,1 @@
+export const getmessageRegister= (state) => state.Register.message;

@@ -1,0 +1,194 @@
+[
+  {
+    "id":1,
+    "name":"Bán hàng"
+  },
+  {
+    "id":2,
+    "name":"Hành chính-Văn phòng"
+  },
+  {
+    "id":3,
+    "name":"Marketing-PR"
+  },
+  {
+    "id":4,
+    "name":"Tư Vấn"
+  },
+  {
+    "id":5,
+    "name":"Xây Dựng"
+  },
+  {
+    "id":6,
+    "name":"Bất Động Sản"
+  },
+  {
+    "id":7,
+    "name":"IT Phần Mềm"
+  },
+  {
+    "id":8,
+    "name":"IT Phần Cứng"
+  },
+  {
+    "id":9,
+    "name":"Y tế-Dược"
+  },
+  {
+    "id":10,
+    "name":"Cơ khí-Chế tạo"
+  },
+  {
+    "id":11,
+    "name":"Kiến Trúc"
+  },
+  {
+    "id":12,
+    "name":"Phiên Dịch"
+  },
+  {
+    "id":13,
+    "name":"Nhân sự"
+  },
+  {
+    "id":14,
+    "name":"Giáo dục"
+  },{
+    "id":15,
+    "name":"IT Mạng"
+  },
+  {
+    "id":16,
+    "name":"Thiết kế"
+  },
+  {
+    "id":17,
+    "name":"Mỹ Thuật"
+  },
+  {
+    "id":18,
+    "name":"Dịch Vụ"
+  },
+  {
+    "id":19,
+    "name":"Khách sạn-Nhà Hàng"
+  },
+  {
+    "id":20,
+    "name":"Thư ký- Trợ Lý"
+  },
+  {
+    "id":21,
+    "name":"Thương Mại Điện tử"
+  },
+  {
+    "id":22,
+    "name":"Vật tư , Thiết bị"
+  },
+  {
+    "id":23,
+    "name":"Ô tô"
+  },
+  {
+    "id":24,
+    "name":"Xe máy"
+  },
+  {
+    "id":25,
+    "name":"Du lịch"
+  },{
+    "id":26,
+    "name":"Ngân hàng"
+  },
+  {
+    "id":27,
+    "name":"Thời Trang"
+  },
+  {
+    "id":28,
+    "name":"Công nghiệp"
+  },
+   {
+    "id":29,
+    "name":"Hóa học"
+  }
+  ,
+   {
+    "id":30,
+    "name":"Sinh học"
+  }
+  ,
+   {
+    "id":31,
+    "name":"Pháp lý"
+  }
+  ,
+   {
+    "id":32,
+    "name":"Bảo hiểm"
+  }
+  ,
+   {
+    "id":33,
+    "name":"In ấn-Xuất bản"
+  },
+  
+   {
+    "id":34,
+    "name":"Mỹ phẩm"
+  },
+  
+   {
+    "id":35,
+    "name":"Dầu khí-Hóa chất"
+  },
+  
+   {
+    "id":36,
+    "name":"Nghệ thuật-Điện Ảnh"
+  }
+  ,
+   {
+    "id":37,
+    "name":"Nông-Lâm-Ngư Nghiệp"
+  },
+   {
+    "id":38,
+    "name":"Game"
+  }
+   ,
+   {
+    "id":39,
+    "name":"Thủ công mỹ nghệ"
+  }
+   ,
+   {
+    "id":40,
+    "name":"Chứng khoán"
+  } ,
+   {
+    "id":41,
+    "name":"Hàng không"
+  },
+   {
+    "id":42,
+    "name":"Tổ chức sự kiện"
+  },
+  
+   {
+    "id":43,
+    "name":"Thực Phẩm"
+  },
+  {
+    "id":44,
+    "name":"Bưu Chính"
+  },
+   {
+    "id":45,
+    "name":"Điện-Điện tử"
+  } ,{
+    "id":46,
+    "name":"Kỹ thuật"
+  }
+]
